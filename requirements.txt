@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+requests
+pillow
+pytesseract
+langchain
+google-generativeai
