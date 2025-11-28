@@ -5,3 +5,4 @@ pillow
 pytesseract
 langchain
 google-generativeai
+numpy
